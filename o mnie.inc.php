@@ -1,0 +1,8 @@
+
+<div class="row">
+<div class="col-12 col-md-4 about-me-img "><img src="img/omnie.png" /></div>
+<div class="col-12 col-md-8 about-me"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sed diam quis lectus porta bibendum in at erat. Sed sit amet velit magna. Fusce eget venenatis ex, tempor venenatis ex. Etiam ullamcorper nisi in semper mattis. Phasellus condimentum lacus libero, iaculis ultricies mauris euismod elementum. Proin egestas purus at lobortis volutpat. Fusce laoreet sapien ultricies rutrum cursus. Vestibulum sed purus eu quam luctus semper eu eu nunc. Duis nec mollis est, sit amet blandit velit.</p>
+
+<p>Vestibulum risus elit, tempor quis urna ac, euismod aliquet lectus. Aenean nulla ante, tempor vitae dignissim quis, congue vel sem. Nunc ac metus id mauris iaculis ornare. Ut hendrerit nunc ut sem tempus blandit. In pretium elit sed odio interdum, at rhoncus dolor aliquam. Proin sem ex, lacinia sit amet suscipit sit amet, viverra id orci. In velit nisi, elementum id urna nec, accumsan interdum quam. Integer mi urna, aliquam sed erat a, pretium lacinia nisl. Nullam ipsum tortor, tristique quis tempus vitae, molestie et risus. Aenean eget lorem dictum, maximus tellus et, convallis lorem. Mauris pellentesque tincidunt nibh, nec maximus nisl pretium quis. Proin mollis gravida magna, et hendrerit augue volutpat sed. Fusce condimentum lectus metus, ac porttitor magna posuere a. Suspendisse faucibus vel eros quis maximus. Pellentesque eu rhoncus enim. Morbi aliquam risus vitae viverra luctus.</p>
+
+</div>
